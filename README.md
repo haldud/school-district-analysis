@@ -43,3 +43,4 @@ Let's analyze the differences in detail for the seven school district metrics th
    - Thomas High School is a Charter school and the removal of scores did not affect the any of the numbers.
 
 ## Summary
+Overall, the removal of the math and reading scores did not have a significant impact. Diving into the district summary statistics and focusing on the scores that changed, the largest observed drop was no more than 0.3% (% Passing Reading). Additionally, the Average Math Score dropped 0.1%, the % Passing Math dropped 0.2%, and the % Overall Passing dropped by 0.1%. It was important to re-run the analysis to ensure the changes were not more significant. Even though the changes were not drastic, removing the scores in question was the right to do to ensure that the state is receiving as accurate data as possible.
